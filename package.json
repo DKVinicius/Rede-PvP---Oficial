@@ -1,0 +1,30 @@
+{
+  "name": "blitzcrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "enmap": "^5.2.4",
+    "fs": "0.0.1-security",
+    "game-server-query": "^1.0.10",
+    "jimp": "^0.9.5",
+    "klasa": "^0.4.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "node-gyp": "^6.1.0",
+    "ns": "^1.0.2",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^5.2.2",
+    "ytdl-core": "^2.0.0"
+  }
+}
